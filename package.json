@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/masked-view": "^0.1.10",
+    "cli": "^1.0.1",
+    "expo": "^37.0.12",
+    "firebase": "^7.14.2",
+    "link": "^0.1.5",
+    "navbar-native": "^1.6.1",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-error-boundary": "^3.1.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
+    "react-native-check-box": "^2.1.7",
+    "react-native-checkbox": "^2.0.0",
+    "react-native-circular-action-menu": "^0.5.0",
+    "react-native-dialog": "^5.6.0",
+    "react-native-elements": "^2.0.0",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-maps": "0.26.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal-dropdown": "^0.7.0",
+    "react-native-nav": "^2.0.2",
+    "react-native-reanimated": "~1.7.0",
+    "react-native-safe-area-context": "0.7.3",
+    "react-native-screens": "~2.2.0",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-web": "^0.15.7",
+    "react-navigation": "^4.3.8",
+    "react-navigation-stack": "^2.3.13",
+    "react-navigation-tabs": "^2.8.12"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "~8.1.0",
+    "@babel/core": "^7.8.6"
+  },
+  "private": true
+}
